@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Passo2.Beverage">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Beverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo2.Espresso">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Espresso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo2.DarkRoast">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DarkRoast.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo2.Decaf">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decaf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo2.CondimentDecorator">
+    <Position X="8.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CondimentDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo2.Mocha">
+    <Position X="6" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mocha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo2.Soy">
+    <Position X="10.75" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Soy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo2.Whip">
+    <Position X="8.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Whip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo2.HouseBlend">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HouseBlend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

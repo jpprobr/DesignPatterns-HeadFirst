@@ -1,0 +1,12 @@
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Observer\Observer\Passo2\bin\Debug\Passo2.exe.config
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Observer\Observer\Passo2\bin\Debug\Passo2.exe
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Observer\Observer\Passo2\bin\Debug\Passo2.pdb
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Observer\Observer\Passo2\obj\Debug\Passo2.csprojResolveAssemblyReference.cache
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Observer\Observer\Passo2\obj\Debug\Passo2.exe
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Observer\Observer\Passo2\obj\Debug\Passo2.pdb
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Observer\Passo2\bin\Debug\Passo2.exe.config
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Observer\Passo2\obj\Debug\Passo2.exe
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Observer\Passo2\obj\Debug\Passo2.pdb
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Observer\Passo2\bin\Debug\Passo2.exe
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Observer\Passo2\bin\Debug\Passo2.pdb
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Observer\Passo2\obj\Debug\Passo2.csprojResolveAssemblyReference.cache

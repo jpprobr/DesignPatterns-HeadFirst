@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Strategy.Ex1.Classes.Duck">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAACAAAAABQAAAAAA=</HashCode>
+      <FileName>Classes\Duck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Strategy.Ex1.Classes.MallardDuck">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\MallardDuck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Strategy.Ex1.Classes.RedHeadDuck">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\RedHeadDuck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Strategy.Ex1.Classes.RubberDuck">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAAAAA=</HashCode>
+      <FileName>Classes\RubberDuck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Strategy.Ex1.Classes.DecoyDuck">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAAAAA=</HashCode>
+      <FileName>Classes\DecoyDuck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

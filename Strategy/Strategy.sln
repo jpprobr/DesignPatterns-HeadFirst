@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passo1", "Passo1\Passo1.csproj", "{72AEE7E4-6A91-40EC-B682-4A85645C9F3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passo2", "Passo2\Passo2.csproj", "{5A53EC2F-4979-4495-A6F3-C946E86E1C88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passo3", "Passo3\Passo3.csproj", "{0BFDBCD3-5C89-4E1C-859B-361047417110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72AEE7E4-6A91-40EC-B682-4A85645C9F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72AEE7E4-6A91-40EC-B682-4A85645C9F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72AEE7E4-6A91-40EC-B682-4A85645C9F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72AEE7E4-6A91-40EC-B682-4A85645C9F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A53EC2F-4979-4495-A6F3-C946E86E1C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A53EC2F-4979-4495-A6F3-C946E86E1C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A53EC2F-4979-4495-A6F3-C946E86E1C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A53EC2F-4979-4495-A6F3-C946E86E1C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BFDBCD3-5C89-4E1C-859B-361047417110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFDBCD3-5C89-4E1C-859B-361047417110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFDBCD3-5C89-4E1C-859B-361047417110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFDBCD3-5C89-4E1C-859B-361047417110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

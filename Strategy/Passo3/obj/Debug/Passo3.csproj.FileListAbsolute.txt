@@ -1,0 +1,5 @@
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Strategy\Passo3\bin\Debug\Passo3.exe.config
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Strategy\Passo3\bin\Debug\Passo3.exe
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Strategy\Passo3\bin\Debug\Passo3.pdb
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Strategy\Passo3\obj\Debug\Passo3.exe
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Strategy\Passo3\obj\Debug\Passo3.pdb

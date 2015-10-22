@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Passo3_FactoryMethod.ChicagoPizzaStore">
+    <Position X="3.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChicagoPizzaStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo3_FactoryMethod.ChicagoStyleCheesePizza">
+    <Position X="10.5" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChicagoStyleCheesePizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo3_FactoryMethod.NYPizzaStore">
+    <Position X="1" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NYPizzaStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo3_FactoryMethod.PizzaStore">
+    <Position X="2" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PizzaStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo3_FactoryMethod.NYStylePepperoniPizza">
+    <Position X="8.25" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NYStylePepperoniPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo3_FactoryMethod.Pizza">
+    <Position X="9.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAQAAAAAAAAAQAAAIABAAAAAAAAAAAQQA=</HashCode>
+      <FileName>Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo3_FactoryMethod.NYStyleCheesePizza">
+    <Position X="6.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NYStyleCheesePizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passo3_FactoryMethod.ChicagoStylePepperoniPizza">
+    <Position X="13" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChicagoStylePepperoniPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

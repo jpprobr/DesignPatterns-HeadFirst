@@ -1,0 +1,6 @@
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Factory\Passo2-SimpleFactory\bin\Debug\Passo2-SimpleFactory.exe.config
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Factory\Passo2-SimpleFactory\bin\Debug\Passo2-SimpleFactory.exe
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Factory\Passo2-SimpleFactory\bin\Debug\Passo2-SimpleFactory.pdb
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Factory\Passo2-SimpleFactory\obj\Debug\Passo2-SimpleFactory.csprojResolveAssemblyReference.cache
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Factory\Passo2-SimpleFactory\obj\Debug\Passo2-SimpleFactory.exe
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Factory\Passo2-SimpleFactory\obj\Debug\Passo2-SimpleFactory.pdb

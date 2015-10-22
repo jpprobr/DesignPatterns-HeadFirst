@@ -1,0 +1,6 @@
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Factory\Passo3-FactoryMethod\bin\Debug\Passo3-FactoryMethod.exe.config
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Factory\Passo3-FactoryMethod\obj\Debug\Passo3-FactoryMethod.csprojResolveAssemblyReference.cache
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Factory\Passo3-FactoryMethod\bin\Debug\Passo3-FactoryMethod.exe
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Factory\Passo3-FactoryMethod\bin\Debug\Passo3-FactoryMethod.pdb
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Factory\Passo3-FactoryMethod\obj\Debug\Passo3-FactoryMethod.exe
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Factory\Passo3-FactoryMethod\obj\Debug\Passo3-FactoryMethod.pdb

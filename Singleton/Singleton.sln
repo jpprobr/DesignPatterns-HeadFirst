@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabricaChocolate", "FabricaChocolate\FabricaChocolate.csproj", "{3474F231-C178-48DC-842C-D7CA1E094F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabricaChocolateSingleton", "FabricaChocolateSingleton\FabricaChocolateSingleton.csproj", "{B6DBF946-FBEE-4AE3-9FF0-6EFCD6AA840E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3474F231-C178-48DC-842C-D7CA1E094F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3474F231-C178-48DC-842C-D7CA1E094F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3474F231-C178-48DC-842C-D7CA1E094F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3474F231-C178-48DC-842C-D7CA1E094F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6DBF946-FBEE-4AE3-9FF0-6EFCD6AA840E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DBF946-FBEE-4AE3-9FF0-6EFCD6AA840E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DBF946-FBEE-4AE3-9FF0-6EFCD6AA840E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DBF946-FBEE-4AE3-9FF0-6EFCD6AA840E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

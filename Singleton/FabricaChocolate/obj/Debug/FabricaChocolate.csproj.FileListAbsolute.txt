@@ -1,0 +1,6 @@
+D:\JoaoPaulo\@CLOUD\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Singleton\FabricaChocolate\bin\Debug\FabricaChocolate.exe.config
+D:\JoaoPaulo\@Cloud\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Singleton\FabricaChocolate\bin\Debug\FabricaChocolate.exe
+D:\JoaoPaulo\@Cloud\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Singleton\FabricaChocolate\bin\Debug\FabricaChocolate.pdb
+D:\JoaoPaulo\@Cloud\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Singleton\FabricaChocolate\obj\Debug\FabricaChocolate.csprojResolveAssemblyReference.cache
+D:\JoaoPaulo\@Cloud\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Singleton\FabricaChocolate\obj\Debug\FabricaChocolate.exe
+D:\JoaoPaulo\@Cloud\Google Drive\Aulas\Curso - Sistemas de Informacao\Arquitetura de Software\Lab\PadroesProjeto\UAC\Singleton\FabricaChocolate\obj\Debug\FabricaChocolate.pdb

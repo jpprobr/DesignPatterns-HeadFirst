@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Concrete Subject">
+    <Position X="0.5" Y="3" Height="0.302" Width="1.179" />
+  </Comment>
+  <Comment CommentText="Concrete Observers">
+    <Position X="6.25" Y="2.75" Height="0.302" Width="1.49" />
+  </Comment>
+  <Comment CommentText="Abstract Subject">
+    <Position X="0.548" Y="0.5" Height="0.314" Width="1.119" />
+  </Comment>
+  <Comment CommentText="Abstract Observer">
+    <Position X="4.26" Y="0.702" Height="0.314" Width="1.287" />
+  </Comment>
+  <Class Name="Passo2.StatisticsDisplay">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAAQCAAAAAAAQAIAAAAAAAEAAQAAEAABAQ=</HashCode>
+      <FileName>StatisticsDisplay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Passo2.WeatherData">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAQAABAAADAAAAAAAAIAAAAAQAAgQkBAA=</HashCode>
+      <FileName>WeatherData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Passo2.ForecastDisplay">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAAQAAAAAAAAQAAAAAAAAAAAAQAAAAABAA=</HashCode>
+      <FileName>ForecastDisplay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Passo2.CurrentConditionsDisplay">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAAQAAAAAAAAQAAAAAAAAAAAAQAAAAABAA=</HashCode>
+      <FileName>CurrentConditionsDisplay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Passo2.ThirdyPartyDisplay">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ThirdyPartyDisplay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Passo2.ISubject">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAA=</HashCode>
+      <FileName>ISubject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Passo2.IObserver">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Passo2.IDisplayElement">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDisplayElement.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

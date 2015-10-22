@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passo1", "Passo1\Passo1.csproj", "{2B148911-A32D-4937-991D-10DF70D637CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passo2", "Passo2\Passo2.csproj", "{31194E01-5641-4F21-8F83-9C05E2A2F5EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B148911-A32D-4937-991D-10DF70D637CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B148911-A32D-4937-991D-10DF70D637CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B148911-A32D-4937-991D-10DF70D637CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B148911-A32D-4937-991D-10DF70D637CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31194E01-5641-4F21-8F83-9C05E2A2F5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31194E01-5641-4F21-8F83-9C05E2A2F5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31194E01-5641-4F21-8F83-9C05E2A2F5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31194E01-5641-4F21-8F83-9C05E2A2F5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
